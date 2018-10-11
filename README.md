@@ -1,2 +1,2 @@
 # AE
-This is Git Repository for IRIApplictionEntry
+This is Git Repository for ApplictionEntry
